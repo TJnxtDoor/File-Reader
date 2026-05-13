@@ -1,0 +1,20 @@
+[
+  {
+    "ModelName": "Subaru WRX STI",
+    "HP": 310,
+    "Weight": 1545,
+    "IsAWD": true
+  },
+  {
+    "ModelName": "Mazda MX-5 Miata",
+    "HP": 181,
+    "Weight": 1061,
+    "IsAWD": false
+  },
+  {
+    "ModelName": "Nissan GT-R",
+    "HP": 565,
+    "Weight": 1760,
+    "IsAWD": true
+  }
+]

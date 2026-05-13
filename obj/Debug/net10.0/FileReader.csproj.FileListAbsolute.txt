@@ -1,0 +1,16 @@
+C:\Users\Tj\Documents\GitHub\File Reader\bin\Debug\net10.0\FileReader.exe
+C:\Users\Tj\Documents\GitHub\File Reader\bin\Debug\net10.0\FileReader.deps.json
+C:\Users\Tj\Documents\GitHub\File Reader\bin\Debug\net10.0\FileReader.runtimeconfig.json
+C:\Users\Tj\Documents\GitHub\File Reader\bin\Debug\net10.0\FileReader.dll
+C:\Users\Tj\Documents\GitHub\File Reader\bin\Debug\net10.0\FileReader.pdb
+C:\Users\Tj\Documents\GitHub\File Reader\obj\Debug\net10.0\FileReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tj\Documents\GitHub\File Reader\obj\Debug\net10.0\FileReader.AssemblyInfoInputs.cache
+C:\Users\Tj\Documents\GitHub\File Reader\obj\Debug\net10.0\FileReader.AssemblyInfo.cs
+C:\Users\Tj\Documents\GitHub\File Reader\obj\Debug\net10.0\FileReader.csproj.CoreCompileInputs.cache
+C:\Users\Tj\Documents\GitHub\File Reader\obj\Debug\net10.0\FileReader.sourcelink.json
+C:\Users\Tj\Documents\GitHub\File Reader\obj\Debug\net10.0\FileReader.dll
+C:\Users\Tj\Documents\GitHub\File Reader\obj\Debug\net10.0\refint\FileReader.dll
+C:\Users\Tj\Documents\GitHub\File Reader\obj\Debug\net10.0\FileReader.pdb
+C:\Users\Tj\Documents\GitHub\File Reader\obj\Debug\net10.0\FileReader.genruntimeconfig.cache
+C:\Users\Tj\Documents\GitHub\File Reader\obj\Debug\net10.0\ref\FileReader.dll
+C:\Users\Tj\Documents\GitHub\File Reader\bin\Debug\net10.0\car_data.json
